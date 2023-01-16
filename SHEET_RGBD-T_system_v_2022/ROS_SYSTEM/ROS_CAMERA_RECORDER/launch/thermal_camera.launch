@@ -1,0 +1,12 @@
+<launch>
+  <node pkg="thermal_camera_reader" type="thermal_camera_reader_node" name="thermal_camera_reader" output="screen">     
+		<param name="smoothing"          value="1" />
+    <param name="warmup"             value="10" />
+    <param name="cam_type"           value="seekpro" />
+    <param name="color_map"          value="-1" />
+    <param name="rotate"             value="0" />
+    <param name="spin_rate"          value="5.0" />
+	</node>
+</launch>
+
+
