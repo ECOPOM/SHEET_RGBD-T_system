@@ -9,7 +9,7 @@ authors:
   orcid: "https://orcid.org/0000-0003-2322-8561" 
 - family-names: "Mengoli"
   given-names: "Dario"
-  orcid: "" 
+  orcid: "https://orcid.org/0000-0002-6131-8026"
 title: "SHEET_RGBD-T_system_v_2022"
 version: 1.0.0
 doi: 10.5281/zenodo.7541754
