@@ -162,6 +162,6 @@ The code authors are *[Mirko Piani](https://www.linkedin.com/in/mirko-piani-7b41
 *[Gianmarco Bortolotti](https://www.linkedin.com/in/gianmarco-bortolotti-a02aa8154/)* from the fruit trees department
 ([DISTAL](https://distal.unibo.it/en/index.html)) of the University of Bologna (IT).
 Reach out our group [ECOPOM](https://www.linkedin.com/company/ecopom/?viewAsMember=true) on LinkedIn 🚀
-
+[![DOI](https://zenodo.org/badge/589666099.svg)](https://zenodo.org/badge/latestdoi/589666099)
 
 
