@@ -2,6 +2,9 @@
 project funded by ICT - AGRI FOOD, *December 2022*
 
 [![DOI](https://zenodo.org/badge/589666099.svg)](https://zenodo.org/badge/latestdoi/589666099)
+
+The project SHEET is part of the ERA-NET Cofund ICT-AGRI-FOOD, with funding provided by national sources [National funding agency] and co-funding by the European Union’s Horizon 2020 research and innovation program, Grant Agreement number 862665.
+
 _______
 
 ## Understanding the code
