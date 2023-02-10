@@ -1,11 +1,7 @@
 # Sunburn and HEat Prediction in canopies for Evolving a warning tech solution (SHEET) 🍎🍇
 *December 2022*
 
-**The project SHEET is part of the ERA-NET Cofund ICT-AGRI-FOOD, with funding provided by national sources [National funding agency] and co-funding by the European Union’s Horizon 2020 research and innovation program, Grant Agreement number 862665.**
-
-[![DOI](https://zenodo.org/badge/589666099.svg)](https://zenodo.org/badge/latestdoi/589666099)
-
-
+**The project SHEET is part of the ERA-NET Cofund ICT-AGRI-FOOD, with funding provided by national sources [National funding agency] and co-funding by the European Union’s Horizon 2020 research and innovation program, Grant Agreement number 862665.**  https://ictagrifood.eu/node/44656
 
 _______
 
@@ -165,10 +161,19 @@ For example, the following `RUN_file.py` is commented in order to only show prev
     print(f'\nminutes {(end - start)/60}')
 _____
 
-The code authors are *[Mirko Piani](https://www.linkedin.com/in/mirko-piani-7b411a1a2/)* and 
+The main code authors are *[Mirko Piani](https://www.linkedin.com/in/mirko-piani-7b411a1a2/)* and 
 *[Gianmarco Bortolotti](https://www.linkedin.com/in/gianmarco-bortolotti-a02aa8154/)* from the fruit trees department
-([DISTAL](https://distal.unibo.it/en/index.html)) of the University of Bologna (IT).
+([DISTAL](https://distal.unibo.it/en/index.html)) of the University of Bologna (IT). 
 Reach out our group [ECOPOM](https://www.linkedin.com/company/ecopom/?viewAsMember=true) on LinkedIn 🚀
-[![DOI](https://zenodo.org/badge/589666099.svg)](https://zenodo.org/badge/latestdoi/589666099)
+
+Special thanks to all the other authors and contributors:
+*[Dario Mengoli]()*, *[Nicolò Omodei](https://www.linkedin.com/in/nicolo-omodei/)*, *[Simone Rossi](https://www.linkedin.com/in/simone-rossi-4925ba141/)*
+*[Luigi Manfrini](https://www.linkedin.com/in/luigi-manfrini-31979312/)*
+
+
+### Related Works:
+- See the full deliverable including results on LiDAR based system and manual thermal data collection:
+  (File 'FULL_version_D2.1+2.2+2.3+2.4_ATB_Unibo.pdf' here in the repo)
+- Full paper on Lidar-Thermal Alignement: https://www.methods-x.com/article/S2215-0161(22)00093-0/fulltext
 
 
