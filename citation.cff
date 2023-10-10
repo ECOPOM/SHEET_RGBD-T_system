@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Piani"
+- name: "Piani"
   given-names: "Mirko"
-  orcid: ""
+  orcid: "https://orcid.org/0000-0001-7087-3761"
 - family-names: "Bortolotti"
   given-names: "Gianmarco"
   orcid: "https://orcid.org/0000-0003-2322-8561" 
@@ -15,7 +15,7 @@ authors:
   orcid: "https://orcid.org/0000-0002-4513-4198"
   - family-names: "Rossi"
   given-names: "Simone"
-  orcid: ""
+  orcid: "https://orcid.org/0000-0001-6719-4522"
   - family-names: "Manfrini"
   given-names: "Luigi"
   orcid: "https://orcid.org/0000-0003-4776-0608"
@@ -24,4 +24,3 @@ version: 1.1.0
 doi: 
 date-released: 2023-02-10
 url: "https://github.com/ECOPOM/SHEET_RGBD-T_system_v_2022"
-
