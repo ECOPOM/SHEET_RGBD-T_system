@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - name: "Piani"
+  - family-names: "Piani"
     given-names: "Mirko"
     orcid: "https://orcid.org/0000-0001-7087-3761"
   - family-names: "Bortolotti"
