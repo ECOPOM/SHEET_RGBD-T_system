@@ -1,4 +1,7 @@
 # Sunburn and HEat Prediction in canopies for Evolving a warning tech solution (SHEET) 🍎🍇
+
+## ! - Update: December 2023 - The system was improved during 2023 season and the latest code is under revision to be published ASAP - !
+
 *December 2022*
 
 **The project SHEET is part of the ERA-NET Cofund ICT-AGRI-FOOD, with funding provided by national sources [National funding agency] and co-funding by the European Union’s Horizon 2020 research and innovation program, Grant Agreement number 862665.**  https://ictagrifood.eu/node/44656
