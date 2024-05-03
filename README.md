@@ -1,6 +1,6 @@
 # Sunburn and HEat Prediction in canopies for Evolving a warning tech solution (SHEET) 🍎🍇
 
-## ! - Update: December 2023 - The system was improved during 2023 season and the latest code is under revision to be published ASAP - !
+## ! - Update: December 2023 - The system was improved during 2023 season and the latest code is under revision to be published ASAP - ! <br> <br> More information can be found in<br> * ***"Development of a consumer-grade scanning platform for fruit thermal and position data collection"*** [[paper](https://doi.org/10.1109/MetroAgriFor58484.2023.10424204) - [presentation](https://github.com/ECOPOM/SHEET_project_repo/blob/main/Docs/PPT_Bortolotti_et_al_RGBD-Thermal_IEEE_2023_v1.pdf)] <br> * "***A Low-cost RGB-D/thermal platform for monitoring fruit temperature with spatial resolution*** [ ***IN PRESS*** - Conference Proceedings of the II International Symposium on Precision Management of Orchards and Vineyards. PMOV2024. 3-8 Dec 2023. Tatura, VIC, AUS - [presentation](https://github.com/ECOPOM/SHEET_project_repo/blob/main/Docs/PPT_Bortolotti_et_al_TGBD-Thermal_ISHS_2023_v2.pdf)] 
 
 *December 2022*
 
