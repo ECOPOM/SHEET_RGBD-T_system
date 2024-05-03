@@ -1,10 +1,11 @@
 # Sunburn and HEat Prediction in canopies for Evolving a warning tech solution (SHEET) 🍎🍇
 
-## ! - Update: December 2023 - The system was improved during 2023 season and the latest code is under revision to be published ASAP - ! <br> <br> More information can be found in<br> * ***"Development of a consumer-grade scanning platform for fruit thermal and position data collection"*** [[paper](https://doi.org/10.1109/MetroAgriFor58484.2023.10424204) - [presentation](https://github.com/ECOPOM/SHEET_project_repo/blob/main/Docs/PPT_Bortolotti_et_al_RGBD-Thermal_IEEE_2023_v1.pdf)] <br> * "***A Low-cost RGB-D/thermal platform for monitoring fruit temperature with spatial resolution*** [ ***IN PRESS*** - Conference Proceedings of the II International Symposium on Precision Management of Orchards and Vineyards. PMOV2024. 3-8 Dec 2023. Tatura, VIC, AUS - [presentation](https://github.com/ECOPOM/SHEET_project_repo/blob/main/Docs/PPT_Bortolotti_et_al_TGBD-Thermal_ISHS_2023_v2.pdf)] 
+## ! - Update: December 2023 - !
+### The system <ins>was improved during 2023 season</ins> and the latest <ins>code is under revision to be published ASAP </ins> <br> <br> More information can be found in<br> * ***"Development of a consumer-grade scanning platform for fruit thermal and position data collection"*** [[paper](https://doi.org/10.1109/MetroAgriFor58484.2023.10424204) - [presentation](https://github.com/ECOPOM/SHEET_project_repo/blob/main/Docs/PPT_Bortolotti_et_al_RGBD-Thermal_IEEE_2023_v1.pdf)] <br> * "***A Low-cost RGB-D/thermal platform for monitoring fruit temperature with spatial resolution*** [ ***IN PRESS*** - Conference Proceedings of the II International Symposium on Precision Management of Orchards and Vineyards. PMOV2024. 3-8 Dec 2023. Tatura, VIC, AUS - [presentation](https://github.com/ECOPOM/SHEET_project_repo/blob/main/Docs/PPT_Bortolotti_et_al_TGBD-Thermal_ISHS_2023_v2.pdf)] 
 
-*December 2022*
+## *December 2022*
 
-**The project SHEET is part of the ERA-NET Cofund ICT-AGRI-FOOD, with funding provided by national sources [National funding agency] and co-funding by the European Union’s Horizon 2020 research and innovation program, Grant Agreement number 862665.**  https://ictagrifood.eu/node/44656
+**The project SHEET (Sunburn and heat prediction in canopies for evolving a warning tech solution) is part of the ERA-NET co-funded ICT-AGRI-FOOD, with funding provided by national sources (Italian Ministry of the University and Research) and co-funding by the European Union’s Horizon 2020 research and innovation program, Grant Agreement number 862665.**  https://ictagrifood.eu/node/44656
 
 _______
 
